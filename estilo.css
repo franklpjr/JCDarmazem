@@ -10,6 +10,7 @@
 
 #segunda {
     background-color: rgb(240, 147, 93);
+    padding: 3%;
 }
 
 .card {
@@ -51,14 +52,6 @@
     padding-bottom: 5%;
 }
 
-.card-link{
-    color: brown;
-}
-
-.card-link:hover {
-    font-weight: bolder;
-    color:red ;
-}
 
 .atribution {
     color: white;
@@ -79,4 +72,25 @@
 
 .endereco {
     padding-top: 17.5px;
+}
+
+.botao {
+    border: none;
+    background-color: orangered;
+    color: white;
+    width: 70%;
+    height: 10%;
+}
+
+.botao:hover {
+    font-weight: bolder;
+}
+
+.pix {
+    color: rgb(255, 94, 94);
+    font-weight: bold;
+}
+
+.boasvindas {
+    padding-top: 5%;
 }
