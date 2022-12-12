@@ -24,7 +24,7 @@
 }
 
 .list-group-item {
-    height: 97px;
+    height: 60px;
     align-items: center;
     align-content: space-around;
     
@@ -69,8 +69,14 @@
 .whatsapp {
     display: inline-block;
     align-items:baseline;
+    text-align: center;
+    align-content: center;
 }
 
 #whats {
     margin-right: 5px;
+}
+
+.endereco {
+    padding-top: 17.5px;
 }
