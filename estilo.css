@@ -1,3 +1,7 @@
+.navbar-brand {
+    
+}
+
 #primeira {
     align-items: center;
     text-align: center;
@@ -8,8 +12,23 @@
     color: white;
 }
 
+.pix {
+    color: rgb(250, 65, 65);
+    font-weight: bold;
+}
+
+@media (max-width: 480px)
+{
+  .pix
+   {
+    color: white;
+   }
+}
+
 #segunda {
-    background-color: rgb(240, 147, 93);
+    background-image: url("/img/urbx_sc8s_161130.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 3%;
 }
 
@@ -84,11 +103,6 @@
 
 .botao:hover {
     font-weight: bolder;
-}
-
-.pix {
-    color: rgb(255, 94, 94);
-    font-weight: bold;
 }
 
 .boasvindas {
