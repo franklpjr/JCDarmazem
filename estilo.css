@@ -27,8 +27,8 @@
 
 #segunda {
     background-image: url("/img/urbx_sc8s_161130.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat:repeat;
+    background-size: 100%;
     padding: 3%;
 }
 
