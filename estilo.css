@@ -92,6 +92,8 @@
     margin-left: 10px;
     margin-bottom: 20px;
     color: white;
+    align-items: center;
+    align-content: center;
 }
 
 .fa-brands:hover {
@@ -100,8 +102,8 @@
 
 .atribution {
     color: white;
-    font-size: 12px;
-    padding-top: 2%;
+    font-size: 10px;
+    padding-top: 3%;
 }
 
 .whatsapp {
@@ -111,13 +113,19 @@
     align-content: center;
 }
 
+.logo {
+    padding-top: 3%;
+}
+
+.horarios {
+    font-size: 12px;
+    padding-top: 3%;
+}
+
 #whats {
     margin-right: 5px;
 }
 
-.endereco {
-    padding-top: 17.5px;
-}
 
 .botao {
     border: none;
